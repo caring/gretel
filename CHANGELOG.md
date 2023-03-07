@@ -1,5 +1,9 @@
 # Changelog
 
+## Version 3.0.10
+* Fix issue with breadcrumb schema
+* Support bootstrap 4 markup
+
 ## Version 3.0.9
 * Adds breadcrumbs option `link_current_to_request_path` to link the current breadcrumb to the request path(#28 via #29)
 * Fixes semantic breadcrumbs when the last item has no link (via #55)
